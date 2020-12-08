@@ -13,7 +13,7 @@ sections:
         style: link
         new_window: true
     align: left
-    image: images/hero.svg
+    image: images/medicine-5103043_1920.jpg
     image_position: right
     has_background: true
     background:
