@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: 'Medicine Should '
     subtitle: Medical Visionary.
     actions:
       - label: Learn More
