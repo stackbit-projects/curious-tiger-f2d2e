@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Medicine Should Be '
+    title: 'Medicine Should Be Integrated '
     subtitle: Medical Visionary.
     actions:
       - label: Learn More
