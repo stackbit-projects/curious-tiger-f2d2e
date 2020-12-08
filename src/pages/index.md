@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
-    subtitle: M
+    subtitle: 'Medical '
     actions:
       - label: Learn More
         url: /features
