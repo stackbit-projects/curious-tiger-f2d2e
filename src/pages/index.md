@@ -31,7 +31,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/blood-pressure-5095736_1280.png
         image_position: right
         actions:
           - label: Learn More
