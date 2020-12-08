@@ -19,7 +19,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/AdobeStock_90520046.jpeg
+      background_image: images/AdobeStock_133621467.jpeg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
