@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Medicine Should '
+    title: 'Medicine Should Be '
     subtitle: Medical Visionary.
     actions:
       - label: Learn More
