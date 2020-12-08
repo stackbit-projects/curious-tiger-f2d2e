@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Medicine Integrated '
+    title: 'Medicine Integrated and Innovative. '
     subtitle: Medical Visionary.
     actions:
       - label: Learn More
